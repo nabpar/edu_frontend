@@ -1,4 +1,5 @@
-const BACKEND_DOMAIN="http://localhost:8000/"
+// const BACKEND_DOMAIN="http://localhost:8000/"
+const BACKEND_DOMAIN="http://napa.pythonanywhere.com/"
 const NOTIFICATION_REFRESH_INTERVAL=2500
 
 
